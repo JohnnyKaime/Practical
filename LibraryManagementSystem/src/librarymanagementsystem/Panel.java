@@ -287,7 +287,7 @@ public class Panel extends javax.swing.JFrame {
             }
         });
 
-        ADStdCanelBtn.setText("Canel");
+        ADStdCanelBtn.setText("Cancel");
         ADStdCanelBtn.setToolTipText("Canel your current operation");
         ADStdCanelBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -319,7 +319,7 @@ public class Panel extends javax.swing.JFrame {
             }
         });
 
-        ADBkCanelBtn.setText("Canel");
+        ADBkCanelBtn.setText("Cancel");
         ADBkCanelBtn.setToolTipText("Canel your current operation");
         ADBkCanelBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
